@@ -1,0 +1,1 @@
+这是基于picotron的游戏框架搭建项目，主要模仿gamemaker风格的room-layer-object-sprite策略，但是简化其中部分功能
