@@ -1,0 +1,8 @@
+{
+    "diagnostics": {
+        "disable": ["undefined-global","lowercase-global","miss-symbol","miss-end","duplicate-set-field"]
+    },
+    "runtime": {
+        "nonstandardSymbol": ["+=", "-=", "*=", "/=", "//=", "%=", "^=", "..="]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "activeFile": "map01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "map01.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1241,
+                "y": 215.25
+            }
+        },
+        "tiledmap.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 11
+        }
+    },
+    "last.exportedFilePath": "C:/Users/t/Desktop",
+    "last.imagePath": "C:/Users/t/AppData/Roaming/Picotron/drive/desktop/TenGine/Assets",
+    "map.lastUsedExportFilter": "TenGine Map (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "map01.tmx",
+        "tiledmap.tsx"
+    ],
+    "project": "PlatForm01.tiled-project",
+    "recentFiles": [
+        "tiledmap.tsx",
+        "map01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
